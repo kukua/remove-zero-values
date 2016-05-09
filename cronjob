@@ -1,0 +1,1 @@
+*/15 * * * * ubuntu /home/ubuntu/data/remove-zero-values/remove.sh >> /home/ubuntu/data/logs/files/remove-zero-values.log 2>&1
